@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 50px;
+    background: rgb(209, 177, 177);
+    text-align: center;
+}
+
+.one {
+    background-color: #0000ff;
+    color: #ffa500;
+    padding: 30px;
+    border: 10px solid #ffa500;
+    margin: 1%;
+}
+
+.two {
+    background-color: hsl(39, 100%, 50%);
+    color: hsl(240, 100%, 50%);
+    padding: 30px;
+    border: 10px solid hsl(240, 100%, 50%);
+    margin: 10px;
+}
+
