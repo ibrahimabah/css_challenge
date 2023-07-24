@@ -1,0 +1,32 @@
+body {
+    background-color: burlywood;
+    margin: 100px;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 2em;
+    color: black;
+}
+
+.container {
+    display: flex;
+    margin: auto;
+}
+
+.container > div {
+    padding: 15px;
+    margin: 5px;
+    margin: auto;
+    color: rgb(205, 178, 143);
+}
+
+.container > div:nth-child(1) {
+    background-color: red;
+}
+
+.container > div:nth-child(2) {
+    background-color: green;
+}
+
+.container > div:nth-child(3) {
+    background-color: blue;
+}
