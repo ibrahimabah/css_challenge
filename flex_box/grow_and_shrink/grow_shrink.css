@@ -7,10 +7,9 @@ body {
 }
 
 .container {
-    border: 6px solid #cdb28f;
+    margin: 60px auto;
     display: flex;/* flex property*/
-    margin: 100px;
-    
+    border: 6px solid #cdb28f;
 }
 
 .item {
