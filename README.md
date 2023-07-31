@@ -11,7 +11,7 @@ In 100 Days I'll be creating a project with css and a bit of html. The goal is t
     - Flex Intro
     - Grow and Shrink
     - Axes
-    - 
+    - Alignment
 
 
 > ### Reference 
